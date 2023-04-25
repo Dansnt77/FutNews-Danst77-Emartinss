@@ -1,5 +1,5 @@
 import { createContext, useEffect } from "react";
-import { api } from "../Components/services/api";
+import { api } from "../services/api";
 
 export const FutContext = createContext({});
 
